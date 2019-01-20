@@ -1,1 +1,0 @@
-See SKLEARN DOCUMENTATION to find out how m and c are calculated.
