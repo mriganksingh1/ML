@@ -1,0 +1,10 @@
+A regression equation is a polynomial regression equation if the power of independent variable is more than 1. The equation below represents a polynomial equation:
+y=a+b*x^2
+In this regression technique, the best fit line is not a straight line. It is rather a curve that fits into the data points.
+Here y is dependent variable on x, a is y intercept and e is the error rate.
+In general, we can model it for nth value.
+y = a + b1x + b2x^2 +....+ bnx^n
+Since regression function is linear in terms of unknown variables, hence these models are linear from the point of estimation.
+
+I will be applying Polynomial Regression on the boston housing dataset.
+
